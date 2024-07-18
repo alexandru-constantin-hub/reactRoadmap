@@ -20,6 +20,7 @@ markmap:
     - passing
       - a variable
       - a single object {...props}
+      - function as variable
     - receiving
       - grouping received props into a single object {...object}
     - default prop value {type="submit"}  
