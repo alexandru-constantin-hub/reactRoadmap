@@ -17,4 +17,12 @@ markmap:
 - Basic
   - JSX
   - Props vs State
-  - Conditional Rendering
+    - passing
+      - a variable
+      - a single object {...props}
+    - receiving
+      - grouping received props into a single object {...object}
+    - default prop value {type="submit"}  
+- Conditional Rendering
+- Composition
+  - "Children" props
